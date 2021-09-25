@@ -1,0 +1,26 @@
+
+/* Header style  */
+.header-body{
+    background-color: bisque;
+    padding: 5px;
+}
+.title-name{
+    color: cornflowerblue;
+    font-size: 35px;
+    margin-top: 3px;
+}
+.moto{
+    color: green;
+    font-size: 15px;
+}
+.details{
+    color: darkcyan;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.middle{
+    color: darkred;
+}
+.budget{
+    color: darkcyan;
+}

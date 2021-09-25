@@ -1,0 +1,75 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Belojir Ahmed",
+        "designation": "IGP",
+        "speciality": "ak47",
+        "salary": 100000,
+        "img": "https://dailyasianage.com/library/1590008018_1.jpg"
+    },
+    {
+        "key": "B002RL8IYA",
+        "name": "Md Shahidul Islam",
+        "designation": "DMP Head",
+        "speciality": "mig29",
+        "salary": 90000,
+        "img": "http://dmp.gov.bd/wp-content/uploads/2019/09/PC-1-240x300.jpg"
+    },
+    {
+        "key": "B002RL8IYB",
+        "name": "Aminul Islam",
+        "designation": "AIG",
+        "speciality": "bk27",
+        "salary": 860000,
+        "img": "https://img2.chinadaily.com.cn/images/201910/23/5dafc2f4a310cf3e97a2918f.jpeg"
+    },
+    {
+        "key": "B002RL8IYC",
+        "name": "Hadi Zia Uddin",
+        "designation": "DGSP",
+        "speciality": "sk87",
+        "salary": 80000,
+        "img": "https://www.psc.gov.bd/storage/app/uploads/public/5d8/f10/8d9/5d8f108d9df17342629151.jpg"
+    },
+    {
+        "key": "B002RL8IYD",
+        "name": "Akash Admed",
+        "designation": "AGP",
+        "speciality": "pc41",
+        "salary": 75000,
+        "img": "https://bpa.police.gov.bd/uploads/faculties/20201126_1606373058.JPG"
+    },
+    {
+        "key": "B002RL8IYE",
+        "name": "Al Mahamud",
+        "designation": "ASGP",
+        "speciality": "wq98",
+        "salary": 650000,
+        "img": "https://bpa.police.gov.bd/uploads/faculties/20210117_1610857228.jpg"
+    },
+    {
+        "key": "B002RL8IYF",
+        "name": "Sayef Rahman",
+        "designation": "DGP",
+        "speciality": "nk65",
+        "salary": 60000,
+        "img": "https://industrialpolice.gov.bd/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-31-at-12.29.24-AM.jpeg"
+    },
+    {
+        "key": "B002RL8IYG",
+        "name": "Evan Hossain",
+        "designation": "ASP",
+        "speciality": "ph76",
+        "salary": 500000,
+        "img": "https://tourist.police.gov.bd/uploads/officers/d5571aa75585431355243baf1bd949d6.jpg"
+    },
+    {
+        "key": "B002RL8IYH",
+        "name": "Biplob Hossain",
+        "designation": "SP",
+        "speciality": "ek34",
+        "salary": 450000,
+        "img": "https://www.digrajshahirange.gov.bd/assets/uploads/dig/1600164603new-dig.png"
+    }
+    
+]
