@@ -9,7 +9,7 @@ const Header = () => {
                 <h2 className="title-name">Special Protection Group</h2>
                 <h3 className="moto">Discipline <span className="middle"> Security </span> Progress</h3>
                 <h4 className="details">Here the special police team for protect our country</h4>
-                <h4 className="budget">Total Budget for make this: Fifty Lakh Taka</h4>
+                <h4 className="budget">Total Budget for make this: 50 Lakh Taka</h4>
             </div>
         </div>
     );
